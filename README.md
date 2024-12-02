@@ -41,3 +41,8 @@ mv * .. move all to one layer before this
 
 
 for more inforamtion  https://www.youtube.com/watch?v=qU_ETqp8ApM&list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd&index=9
+
+
+
+
+read https://github.com/impress  for a good presenation
