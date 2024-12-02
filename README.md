@@ -36,3 +36,8 @@ also see jadi tv 16,17,18,20 for web site
 jadi .NET  videocast (see!)
 
 mv * .. move all to one layer before this
+
+
+
+
+for more inforamtion  https://www.youtube.com/watch?v=qU_ETqp8ApM&list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd&index=9
