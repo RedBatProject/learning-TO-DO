@@ -50,3 +50,18 @@ read https://github.com/impress  for a good presenation
 
 
 also see https://www.youtube.com/watch?v=Ahln8AMYS6k&list=PL-tKrPVkKKE3hrSEWmC_zWayV-hWKQPKR&index=2
+
+
+
+we hove some command for connection to internet like ping to check whether we are connected to internet or no
+ip will show our ip address
+
+traceroute (ip) 4.2.2.4 will show the path or way to reach ip who is listenning you!
+
+resolve.conf is for nameservers if you remove name servers or comment them you can still ping ip but not nameserver
+so you should always look at this file
+nslookup will allso give an ip and tell you some result about nameserver
+other methods is dig an ip or nameserver
+
+we also have something funny name mtr an ip it will sent packet to it like ping but it will ping all the servers in between 
+you and the ip and show you who is fucking your internet
