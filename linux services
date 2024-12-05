@@ -1,0 +1,26 @@
+sudo nano /usr/local/bin/set-charge-threshold.sh
+chmod +x /usr/local/bin/set-charge-threshold.sh
+
+[Unit]
+Description=Set Battery Charge Control End Threshold
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/set-charge-threshold.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+
+
+
+
+enable
+
+start
+
+restart
+
+disable
+
+stop
